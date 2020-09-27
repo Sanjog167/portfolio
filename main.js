@@ -31,3 +31,7 @@ $btns.click(function (e) {
 });
 
 $(".project-area .button-group #btn1").trigger("click");
+
+/*------------------
+      Preloader
+  --------------------*/
